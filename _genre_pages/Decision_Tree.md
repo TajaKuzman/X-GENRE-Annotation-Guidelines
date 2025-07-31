@@ -52,13 +52,10 @@ Table of Contents:
 * [News](#news)
 * [Opinion/Argumentation](#opinionargumentation)
 * [Promotion](#promotion)
-* [Promotion + News](#promotional-news)
 * [Prose/Lyrical](#proselyrical)
 * [Other](#other)
 
 ### Description of Labels
-
-### Description of labels
 
 |     Label               |     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     Examples                                                                                                                                                                                                                                  |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -93,29 +90,22 @@ Go to [examples of Not Suitable](Not_Suitable_examples){:target="_blank" rel="no
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
-### News
+### Information/Explanation
 
-A text which reports on an event recent at the time of writing or coming in the near future.
+An objective text that describes or presents an event, a person, a thing, a concept etc. Its main purpose is to inform the reader about something.
 
-Also includes announcements - objective texts which notify the readers about new circumstances, asking them to act accordingly. Unlike invitation (promotion) there is no intent to sell/promote – it is objective and factual.
+This category also includes research articles: objective, clearly-structured texts which present research, use formal language and scientific terms.
 
 Common features:
-* topic: recent event/activities
-* adverbs/adverbial clauses of time and/or place (dates, places)
-* many proper nouns
-* direct or reported speech
-* past tense
-* common words/expressions, typical for announcements (Slovene: "obvestilo, pozivati, obveščati, prositi", Croatian: "obavijest, obaviještavamo, molimo vas")
+* objective/factual: contains no or almost no adjectives/adverbs that convey opinion or promote something (great, awful, high-quality)
+* explanation/definition of a concept (x is …)
+* enumeration
 
-❕ If the text has the form of an article that could be published in the news/in a magazine, and includes a lot of reported speech (he said, "..."), it can be annotated as News, even if it does not report on a concrete event (see an example among the examples on the link below).
+❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description), not as Promotion. See examples on the link below.
 
-❕ If the authors describe their personal experience and there are doubts whether the text belongs to News or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as News. See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
+Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, glossaries (textual - containing full sentences), historical article, biographical story/history, research article, abstract.
 
-❕ If the text reports on an event/product, but is very promotional, annotate it as [Promotion + News](#promotional-news) (use Promotion the primary label and News as the secondary label).
-
-Examples: news report, sports report, travel blog, reportage, police report, notification (error message), announcement ("we would like to inform you").
-
-Go to [examples](News_examples){:target="_blank" rel="noopener"}.
+Go to [examples](Information_Examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
@@ -141,27 +131,6 @@ Go to [examples](Instruction_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
-### Information/Explanation
-
-An objective text that describes or presents an event, a person, a thing, a concept etc. Its main purpose is to inform the reader about something.
-
-This category also includes research articles: objective, clearly-structured texts which present research, uses formal language and scientific terms.
-
-Common features:
-* objective/factual: contains no or almost no adjectives/adverbs that convey opinion or promote something (great, awful, high-quality)
-* explanation/definition of a concept (x is …)
-* enumeration
-
-❕ If the text describes a product or a service but is not subjective nor does it address the reader - annotate it as Information/Explanation (it is an objective description), not as Promotion. See examples on the link below.
-
-❕ If the text is more subjective than objective or there are quantitatively more features of another genre, choose this genre instead of Information/Explanation.
-
-Examples: informational blog, product specification, course materials, syllabus, textbook, general information, job description, manual, horoscope, travel guide, (informational) PowerPoint slides, encyclopedia article, glossaries (textual - containing full sentences), historical article, biographical story/history, research article, abstract.
-
-Go to [examples](Information_Examples){:target="_blank" rel="noopener"}.
-
-Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
-
 ### Legal
 
 An objective formal text that contains legal terms and is clearly structured. The name of the text type is often included in the headline (contract, rules, amendment, general terms and conditions, etc.).
@@ -181,6 +150,51 @@ Go to [examples](Legal_examples){:target="_blank" rel="noopener"}.
 
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
+### Forum
+
+A text in which people discuss a certain topic in form of comments.
+
+Common features:
+* multiple authors
+* informal language
+* subjective (the writers express their opinions)
+* written in 1st person
+
+Examples: comments, QA forum, reader/viewer responses.
+
+Go to [examples](Forum_examples){:target="_blank" rel="noopener"}.
+
+❕ If the text consists of only one comment, which has characteristics of a Forum, still annotate as a Forum, even though there are not multiple people who discuss the topic.
+
+❕ If all of the comments are reviews - the authors do not discuss the topic, each just wrote a review on a product/restaurant/etc. in a form of a comment, annotate the text as Forum (primary category) and [Opinion/Argumentation](#opinionargumentation) (secondary category). See examples of such text on the link above.
+
+Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
+
+### News
+
+A text which reports on an event recent at the time of writing or coming in the near future.
+
+Also includes announcements - objective texts which notify the readers about new circumstances, asking them to act accordingly. Unlike invitation (promotion) there is no intent to sell/promote – it is objective and factual.
+
+Common features:
+* topic: recent event/activities
+* adverbs/adverbial clauses of time and/or place (dates, places)
+* many proper nouns
+* direct or reported speech
+* past tense
+* common words/expressions, typical for announcements (Slovene: "obvestilo, pozivati, obveščati, prositi", Croatian: "obavijest, obaviještavamo, molimo vas")
+
+❕ If the text has the form of an article that could be published in the news/in a magazine, and includes a lot of reported speech (he said, "..."), it can be annotated as News, even if it does not report on a concrete event (see an example among the examples on the link below).
+
+❕ If the authors describe their personal experience and there are doubts whether the text belongs to News or [Opinion/Argumentation](#opinionargumentation), consider whether there are any dates and locations mentioned. If yes and if it seems likely that such text would be published in a newspaper or as a news on a website of an organisation, annotate it as News. See more details and examples [here](opinion-vs-opinionated-news){:target="_blank" rel="noopener"}.
+
+❕ If the text reports on an event/product, but is very promotional, annotate it as [Promotion + News](#promotion--news) (use Promotion as the primary label and News as the secondary label).
+
+Examples: news report, sports report, travel blog, reportage, police report, notification (error message), announcement ("we would like to inform you").
+
+Go to [examples](News_examples){:target="_blank" rel="noopener"}.
+
+Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 ### Opinion/Argumentation
 
@@ -201,7 +215,7 @@ Common features:
 
 ❕ If the reviews are written in a form of comments (e.g., review comments in e-shops), annotate the text as [Forum](#forum) (primary category) and Opinion/Argumentation (secondary category). See examples of such text [here](Forum_examples){:target="_blank" rel="noopener"}.
 
-❕ Use this category for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion (primary label) + Opinion/Argumentation (secondary category). See more details [here](#promotion-of-a-product--review).
+❕ Use this category for texts in which the authors convey their personal experience with the product. If the text compares multiple products, but it is not based on personal experience, annotate it as Promotion (primary label) + Opinion/Argumentation (secondary category). Go to [examples](Promotion_Product_Review_examples){:target="_blank" rel="noopener"}.
 
 ❕ If the text consists of quotes of people providing their feedback (reporting personal experience with a product/service), we annotate it as Opinion/Argumentation (see an example on a link below).
 
@@ -243,43 +257,22 @@ Go to [examples](Promotion_examples){:target="_blank" rel="noopener"}.
 Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
 
 #### Promotion + News
+
 If a text reports on an event/product, which means that it has characteristics of the News genre, but is very promotional (so promotional that parts of the article could be used in an advertisement, e.g. "Cannon - Revolutionary. The best in the world. A perfect novelty."), annotate it as **Promotion (primary label) and News (secondary label)**.
 
 Go to [examples](Promotional_news_examples){:target="_blank" rel="noopener"}.
 
-❔ How to differentiate between [Opinionated News](#opinionated-news) and a Promotion + News text? If the text is a *subjective report* on an event, the default choice should be Opinionated News, unless it includes **promotional slogans** which could appear in an advertisement as well, then use Promotion + News labels. See an example among the examples on the link above.
-
-### Forum
-
-A text in which people discuss a certain topic in form of comments.
-
-Common features:
-* multiple authors
-* informal language
-* subjective (the writers express their opinions)
-* written in 1st person
-
-Examples: comments, QA forum, reader/viewer responses.
-
-Go to [examples](Forum_examples){:target="_blank" rel="noopener"}.
-
-❕ If the text consists of only one comment, which has characteristics of a Forum still annotate as a Forum, even though there are not multiple people who discuss the topic.
-
-❕ If all of the comments are reviews - the authors do not discuss the topic, each just wrote a review on a product/restaurant/etc. in a form of a comment, annotate the text as Forum (primary category) and [Opinion/Argumentation](#opinionargumentation) (secondary category). See examples of such text on the link above.
-
-Go back to the [Decision Tree](#decision-tree) or to the Table of Contents of [Categories Explained](#categories-explained).
+❔ How to differentiate between [News](#news) and a Promotion + News text? If the text is a *report* on an event, the default choice should be News, unless it includes **promotional slogans** which could appear in an advertisement as well, then use Promotion + News labels. See an example among the examples on the link above.
 
 ### Prose/Lyrical
 
-A literary text is deemed to have no other practical purpose than to give pleasure to the reader. Often the author pays attention to the aesthetic appearance of the text. It can be considered as art.
-
-Includes:
-- lyrical texts: texts that are in a form of verses
+A literary text that is deemed to have no other practical purpose than to give pleasure to the reader. Often the author pays attention to the aesthetic appearance of the text. It can be considered as art. This category includes:
+- lyrical texts: texts that are in a form of verses,
 - prose texts: literary running texts that consist of paragraphs. 
 
 ❕ This category includes jokes.
 
-Examples: lyrics, poems, prayers.
+Examples: lyrics, poems, prayers, short stories, novels.
 
 Go to [examples](Prose_examples){:target="_blank" rel="noopener"}.
 

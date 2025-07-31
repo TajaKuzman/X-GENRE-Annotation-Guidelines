@@ -5,7 +5,7 @@ title: X-GENRE Annotation Guidelines
 
 The purpose of this annotation task is to assign genre categories to a web corpus in order to determine their distribution in the corpus, and to allow the corpus’ users to create and analyze subcorpora limited to a particular genre. For this purpose, we will annotate genre categories which are recognizable by users of the corpus, and which are characterized by concrete features so that they should be predictable by a machine algorithm and that the manually annotated examples can be used for training a genre classifier.
 
-To go straight to the decision tree with detailed information on each genre, click [**here**](_genre_pages/Decision_Tree.md).
+To go straight to the **decision tree with detailed information on each genre**, click [**here**](_genre_pages/Decision_Tree.md).
 
 ## Table of contents
 * [What is genre?](#what-is-genre)
@@ -43,9 +43,10 @@ The text could be marked as **Other** if it shows no recognizable features that 
 
 As features of multiple genres can be intertwined in a text, **multiple labels** assigned to the same text are allowed. The secondary genre category should be the one which concrete features are less present in the text or which purpose can only be intuitively established. Please note that this applies to a single text in which the features of two genres are intertwined (e.g., an informational text which has some characteristics of a promotion as well), not to a text or multiple texts that consist of paragraphs of different genres (e. g., a document consisting of two texts: a news text which is followed by a forum; a text that starts with some information on the benefits of ingredients (Information/Explanation) and continues as a recipe (Instruction)).
 
-Label description:
-
 ### Description of labels
+
+For a more **extensive description with annotation guidelines and examples**, see the [**decision tree page**](_genre_pages/Decision_Tree.md).
+
 
 |     Label               |     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     Examples                                                                                                                                                                                                                                  |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
