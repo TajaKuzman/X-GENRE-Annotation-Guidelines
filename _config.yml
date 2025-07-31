@@ -1,0 +1,35 @@
+# Build settings
+
+source: .
+destination: ./_site
+markdown: kramdown
+# don't change the following; coderay will break the embedded
+# annotations.
+kramdown:
+  enable_coderay: false
+#  input: Kramdown
+permalinks: pretty
+# safe: true
+markdown_ext: md
+
+##############################################################################
+
+# Site settings
+
+name: X-GENRE Annotation Guidelines
+baseurl: "/X-GENRE-Annotation-Guidelines"
+homeurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/"
+editurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/edit/gh-pages"
+issueurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/issues"
+
+##############################################################################
+
+# Collection settings
+
+collections:
+  entity:
+    output: true
+  relation:
+    output: true
+  genre_pages:
+    output: true
