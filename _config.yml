@@ -18,8 +18,8 @@ markdown_ext: md
 
 name: X-GENRE Annotation Guidelines
 baseurl: "/X-GENRE-Annotation-Guidelines"
-homeurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/"
-editurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/edit/gh-pages"
+homeurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines"
+editurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/edit/main"
 issueurl: "https://github.com/TajaKuzman/X-GENRE-Annotation-Guidelines/issues"
 
 ##############################################################################
