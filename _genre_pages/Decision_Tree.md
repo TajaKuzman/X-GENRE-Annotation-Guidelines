@@ -44,14 +44,14 @@ What is the purpose of the text?
 
 Table of Contents:
 * [Not Suitable](#not-suitable)
-* [News](#newsreporting)
-* [Instruction](#instruction)
 * [Information/Explanation](#informationexplanation)
-* [Legal](#legalregulation)
+* [Instruction](#instruction)
+* [Legal](#legal)
+* [Forum](#forum)
+* [News](#news)
 * [Opinion/Argumentation](#opinionargumentation)
 * [Promotion](#promotion)
 * [Promotion + News](#promotional-news)
-* [Forum](#forum)
 * [Prose/Lyrical](#proselyrical)
 * [Other](#other)
 

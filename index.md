@@ -13,7 +13,6 @@ To go straight to the decision tree with detailed information on each genre, cli
 * [Categories](#categories)
 * [General Instructions](#general-instructions)
 * [Decision Tree](#decision-tree)
-* [The Corpus](#the-corpus)
 
 ## What is genre?
 
@@ -33,7 +32,7 @@ Note that a text is discarded as a “machine translation” only if it is a tra
 ## Categories
 
 The categorization schema consists of 9 categories:
-* Objective informative genres: Information/Explanation, News, Instruction, Legal
+* Informative genres: Information/Explanation, News, Instruction, Legal
 * Subjective non-promotional genre: Opinion/Argumentation
 * Promotional genre: Promotion
 * Genre consisting of a dialogue: Forum
@@ -46,7 +45,7 @@ As features of multiple genres can be intertwined in a text, **multiple labels**
 
 ### Mapping to the GINCO, FTD and CORE schemata
 
-The X-GENRE categories can be mapped to the GINCO (Kuzman et al., 2022), CORE (Egbert et al., 2015) and FTD schema (Sharoff, 2018), which enables cross-dataset cross-lingual experiments with GINCO, FTD and CORE datasets.
+The X-GENRE categories can be mapped to the GINCO (Kuzman et al., 2022), CORE (Egbert et al., 2015) and FTD (Sharoff, 2018) schemata, which enables cross-lingual cross-dataset experiments with GINCO, FTD and CORE datasets.
 
 The mapping is shown in the following figure:
 
@@ -61,15 +60,13 @@ Kuzman, Taja, Peter Rupnik, and Nikola Ljubešić. "The GINCO Training Dataset f
 
 Kuzman, Taja, Igor Mozetič, and Nikola Ljubešić. "Automatic genre identification for robust enrichment of massive text collections: Investigation of classification methods in the era of large language models." Machine Learning and Knowledge Extraction 5.3 (2023): 1149-1175.
 
-Sharoff, Serge. "Functional text dimensions for the annotation of web corpora." Corpora 13.1 (2018): 65-95.
-
-)
+Sharoff, Serge. "Functional text dimensions for the annotation of web corpora." Corpora 13.1 (2018): 65-95.)
 
 ## General Instructions
 * First, check whether there is a very recognizable form or content based on which you can quickly assign the genre. Reading the complete text is not necessary, just read a couple of sentences from the beginning, middle and the end of the text. That should give you enough information to ascertain the purpose and the most prevalent features of the text.
 * After you have familiarized yourself with the genre schema and the annotation process, the annotation should be rather quick – if you cannot quickly identify a genre of the text, we assume that such text will not be very useful for the machine learning. So if you cannot quickly recognize any genre, discard the text as Other. If you are in doubt because it seems to be a mixture of genres, check which concrete features are more prevalent to assign the main genre and assign a secondary genre as well.
 * If the quick genre categorization does not apply, use the decision tree to assign the genre. When in doubt, refer to the Categories explained below the decision tree, which includes the most prominent features and examples of each category. If you are certain of the genre, you can skip the decision tree and choose the category from the list.
-* When assigning a genre, always prioritize concrete features of the text on which the classifier can be trained over your intuition regarding the purpose of the text (as the classifier cannot assign genres based on intuition). For instance, you feel that a text about wine is promotion, because you know it is located on a winemaker’s online shop and because there is a price tag next to it, but the text itself shows no concrete characteristics of promotion (no subjective adjectives, no addressing the reader, etc.). However, it has concrete features of information/explanation (objective adjectives, enumeration, explanation of a concept …). Therefore, you should annotate this example as Information/Explanation (and annotate Promotion as the secondary genre).
+* When assigning a genre, always prioritize concrete features of the text on which the classifier can be trained over your intuition regarding the purpose of the text (as the classifier cannot assign genres based on intuition). For instance, you feel that a text about wine is Promotion, because you know it is located on a winemaker’s online shop and because there is a price tag next to it, but the text itself shows no concrete characteristics of Promotion (no subjective adjectives, no addressing the reader, etc.). However, it has concrete features of Information/Explanation (objective adjectives, enumeration, explanation of a concept …). Therefore, you should annotate this example as Information/Explanation (and annotate Promotion as the secondary genre).
 * If you easily assign the genre of the text, there is no need to spend time thinking if a secondary category exists as well – this option is reserved for cases when you are considering two genres from the start.
 * If you are not sure, do not hesitate to ask. If you refer to a particular text, include the document ID.
 * Make breaks frequently. Trying to stay focused for a long time leads to mistakes.
